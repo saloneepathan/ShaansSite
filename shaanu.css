@@ -1,0 +1,20 @@
+body{
+    background-image: url('football.jpg');
+    background-size: 100% ;
+}
+
+.name{
+    font-family: 'Lobster', cursive;
+     font-size: 55px;
+}
+.writingDiv{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10%;
+    padding-left: 8%;
+    font-size: 30px;
+}
+.navBar{
+    padding-top: 3%;
+    padding-left: 8%;
+    font-size: large;
+  }
